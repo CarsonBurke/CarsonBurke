@@ -7,7 +7,9 @@ My Expertise
 * CSS
 * JavaScript
 * TypeScript
-* Python
+* React
 * NodeJS
+* Python
+* Flask
 * EJS
 * Project Management
