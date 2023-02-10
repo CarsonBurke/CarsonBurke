@@ -7,13 +7,13 @@ Hello! I do web development and machine learning.
 </div>
 
 My Expertise
-* HTML
-* CSS
 * JavaScript
 * TypeScript
+* Python
+* Rust
+* HTML
+* CSS
 * React
 * NodeJS
-* Python
 * Flask
 * EJS
-* Project Management
