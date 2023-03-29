@@ -17,6 +17,3 @@ My Expertise
 * NodeJS
 * Flask
 * EJS
-
-https://github.com/The-International-Screeps-Bot/The-International-Open-Source/blob/Main/src/other/memHack.ts
-https://github.com/waxeye7/Pacifist-Bot/blob/main/src/utils/MemHack.ts
