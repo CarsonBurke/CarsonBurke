@@ -6,7 +6,7 @@ Hello! I do web development and machine learning.
 
 </div>
 
-My Expertise
+## My Expertise
 * JavaScript
 * TypeScript
 * Python
