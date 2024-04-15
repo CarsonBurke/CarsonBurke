@@ -1,4 +1,4 @@
-Hello! I do web development and machine learning.
+Hello! I do web development, software development, design and machine learning.
 
 ## My Expertise
 * JavaScript
