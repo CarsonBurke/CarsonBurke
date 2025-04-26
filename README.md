@@ -4,9 +4,9 @@ Hello! I do web development, software development, design and machine learning.
 * JavaScript & TypeScript
 * Python
 * Rust 🦀
-* HTML & CSS
+* HTML & CSS & DOM
 * SQL & PostgreSQL & EdgeDB & Firebase & Appwrite
 * React & NextJS
 * NodeJS & Express
 * Flask
-* EJS
+* APIs with trpc, fastapi, openapi
